@@ -3,7 +3,7 @@
 
 ## 📝 Deskripsi
 
-📌 Repositori ini berisi kumpulan skrip dan notebook untuk melakukan *data preprocessing*, yaitu proses pengolahan awal data mentah agar siap digunakan dalam analisis data atau pemodelan machine learning. Tahapan preprocessing ini meliputi pembersihan data, penanganan data hilang, encoding fitur kategori, penskalaan fitur numerik, serta deteksi dan pengelolaan outlier. Proses ini sangat penting agar data yang digunakan berkualitas dan dapat meningkatkan performa model yang dikembangkan.
+📌 Proyek ini dibuat untuk melakukan *data preprocessing*, yaitu proses pengolahan awal data mentah agar siap digunakan dalam analisis data atau pemodelan machine learning. Tahapan preprocessing ini meliputi pembersihan data, penanganan data hilang, encoding fitur kategori, penskalaan fitur numerik, serta deteksi dan pengelolaan outlier. Proses ini sangat penting agar data yang digunakan berkualitas dan dapat meningkatkan performa model yang dikembangkan.
 
 
 
@@ -35,7 +35,8 @@
 📁 Hasil dari proses preprocessing yang dapat berupa dataset bersih dan siap pakai untuk analisis atau pelatihan model, disimpan di folder `output/`.
 
 
-📌 Kesimpulan
+## 📌 Kesimpulan
+
 🔍 Proses data preprocessing merupakan tahap krusial dalam pipeline analisis data dan pengembangan model machine learning. Dengan melakukan langkah-langkah seperti pembersihan data, penanganan missing values, encoding fitur kategori, serta penskalaan dan deteksi outlier secara tepat, kualitas data yang dihasilkan menjadi lebih baik dan siap digunakan. Hal ini akan berkontribusi pada hasil analisis yang lebih akurat dan performa model yang optimal.
 
 
