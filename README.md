@@ -25,9 +25,10 @@
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
-- Matplotlib / Seaborn (opsional untuk eksplorasi data)
-
+- nltk
+- Sastrawi
+- beautifulsoup4
+- requests
 
 
 ## 📂 Output
